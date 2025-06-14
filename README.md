@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Ahona 👋</h1>
 
-<p align="center">
-🎓 Final-year Computer Science student at RCC Institute of Information Technology  
-🌱 Currently learning: Web Development, Cybersecurity, and Machine Learning  
-💡 Passionate about solving problems, building useful tools, and growing as a developer  
-</p>
-
+### 🙋‍♀️ About Me
+- 🎓 Final-year Computer Science student at RCC Institute of Information Technology  
+- 🌱 Currently learning Web Development, Cybersecurity, and Machine Learning  
+- 💡 Passionate about solving problems, building useful tools, and growing as a developer
+  
 ---
 
 ### 🛠️ Skills I'm Learning
