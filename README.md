@@ -10,7 +10,7 @@
 
 ### 🛠️ Skills I'm Learning
 - 💻 **Languages:** Python, Java
-- ⚛️ **Frontend:** React.js, Tailwind CSS, 
+- ⚛️ **Frontend:** React.js, Tailwind CSS
 - 🌐 **Frontend:** HTML, CSS, JavaScript, React
 - 🧰 **Backend Basics:** Node.js (beginner level)
 - 🧠 **Other Interests:** Machine Learning (Python), Cybersecurity fundamentals
@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Let’s Connect!
-- 💼 LinkedIn:   
+- 💼 LinkedIn: https://www.linkedin.com/in/ahona-ghosal16/ 
 - 📧 Email: ahonaghosal16@gmail.com
 
 ---
